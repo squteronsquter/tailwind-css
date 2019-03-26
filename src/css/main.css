@@ -1,0 +1,7 @@
+/* read: https://tailwindcss.com/docs/installation/ */
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+/* run */
+/* npx tailwind build src/css/main.css -o dist/tailwind.css */
