@@ -1,7 +1,5 @@
 # How to deploy your new website with Tailwind CSS
 
-==================================================
-
 ## Create files and directories
 
 ```
